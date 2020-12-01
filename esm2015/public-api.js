@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of pets-list
+ */
+export * from './lib/pets-list.service';
+export * from './lib/pets-list.component';
+export * from './lib/pets-list.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL3BldHMtbGlzdC8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLHlCQUF5QixDQUFDO0FBQ3hDLGNBQWMsMkJBQTJCLENBQUM7QUFDMUMsY0FBYyx3QkFBd0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgcGV0cy1saXN0XG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvcGV0cy1saXN0LnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvcGV0cy1saXN0LmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9wZXRzLWxpc3QubW9kdWxlJztcbiJdfQ==

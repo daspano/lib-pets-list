@@ -1,0 +1,21 @@
+{
+  "name": "pets-list",
+  "version": "2.0.0",
+  "peerDependencies": {
+    "@angular/common": "^9.1.12",
+    "@angular/core": "^9.1.12"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/pets-list.umd.js",
+  "module": "fesm5/pets-list.js",
+  "es2015": "fesm2015/pets-list.js",
+  "esm5": "esm5/pets-list.js",
+  "esm2015": "esm2015/pets-list.js",
+  "fesm5": "fesm5/pets-list.js",
+  "fesm2015": "fesm2015/pets-list.js",
+  "typings": "pets-list.d.ts",
+  "metadata": "pets-list.metadata.json",
+  "sideEffects": false
+}
